@@ -7,8 +7,8 @@ Dieses Projekt könnte Fehler haben oder manche Funktionen könnten nicht wie er
 
 ## Funktionen
 - Man kann lotto zhalen aus Wählen 
-- man kann lotto kare kaufen
-- gibt fehler Meldung an.
+- Man kann lotto kare kaufen
+- Gibt fehler Meldung an.
 
 ## Installation
 Um dieses Projekt lokal auszuführen, bitte folgen diese Prozess.
